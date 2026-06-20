@@ -2,6 +2,8 @@
 
 > Binary speech authentication: classifying an audio clip as **Genuine (Human)** or **Deepfake (AI-Generated)** from log-mel spectrograms, trained across two datasets for cross-corpus robustness.
 
+Live demo: https://huggingface.co/spaces/1Priyanshu18/deepfake-audio-detector
+
 ---
 
 ## Problem
